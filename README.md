@@ -1,4 +1,4 @@
-# reti_testbench
+# matrix-area
 
 This is the repository for the project "Prova finale di Reti Logiche" (Final test of Logic Design) by Politecnico di Milano.  
 It's a VHDL implementation of an algorithm that, given a matrix and a threshold in input, evaluates the area of the largest rectangle defined by values above the threshold.  
