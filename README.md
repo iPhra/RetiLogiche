@@ -18,7 +18,7 @@ Simulation had to be done both in Behavioral and Post-Synthesis, paying attentio
 | First name | Last Name | Email address   |
 | ---------- | --------- | --------------- |
 | Emilio | Imperiali | emilio.imperiali@mail.polimi.it |
-| Francesco | Lorenzo  | francesco.lorenzo@mail.polimi.it |
+| Francesco | Lorenzo  | francesco1.lorenzo@mail.polimi.it |
 
 ## Documentation
 - [Report](https://github.com/iPhra/RetiLogiche/blob/master/Progetto%20di%20Reti%20Logiche.docx)
